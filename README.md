@@ -1,4 +1,4 @@
-# verificacion-digital-check-simulacion-client-php
+# digital-check-simulacion-client-php
 
 <p>API Digital Checks.<p> <p>A traves de datos como correo electronico, numero telefonico y direccion IP, proporciona un score de riesgo de fraude de originacion y a la vez obtiene informacion relevante para mejor conocimiento del perfil de riesgo del usuario.</p><br/><img src='https://github.com/APIHub-CdC/imagenes-cdc/blob/master/circulo_de_credito-apihub.png' height='37' width='160'/><br/>
 
